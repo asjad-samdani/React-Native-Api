@@ -1,0 +1,10 @@
+# ninja log v5
+7	68	0	E:/WorkSpace/React-Native-Api/android/app/.cxx/Debug/5j6s4t27/x86/CMakeFiles/cmake.verify_globs	823a3cdf61ef4d9c
+11	13186	7592570164403860	CMakeFiles/appmodules.dir/E_/WorkSpace/React-Native-Api/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	674ba084d6e7278a
+3	16299	7592570193787964	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3b0c893e6cc7e549
+16302	17916	7592570210606397	E:/WorkSpace/React-Native-Api/android/app/build/intermediates/cxx/Debug/5j6s4t27/obj/x86/libappmodules.so	7b56810fee6e742d
+7	124	0	E:/WorkSpace/React-Native-Api/android/app/.cxx/Debug/5j6s4t27/x86/CMakeFiles/cmake.verify_globs	823a3cdf61ef4d9c
+8	86	0	E:/WorkSpace/React-Native-Api/android/app/.cxx/Debug/5j6s4t27/x86/CMakeFiles/cmake.verify_globs	823a3cdf61ef4d9c
+20	134	0	E:/WorkSpace/React-Native-Api/android/app/.cxx/Debug/5j6s4t27/x86/CMakeFiles/cmake.verify_globs	823a3cdf61ef4d9c
+19	188	0	E:/WorkSpace/React-Native-Api/android/app/.cxx/Debug/5j6s4t27/x86/CMakeFiles/cmake.verify_globs	823a3cdf61ef4d9c
+4	71	0	E:/WorkSpace/React-Native-Api/android/app/.cxx/Debug/5j6s4t27/x86/CMakeFiles/cmake.verify_globs	823a3cdf61ef4d9c
